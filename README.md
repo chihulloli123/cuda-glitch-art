@@ -1,14 +1,14 @@
 # cuda-glitch-art
-# tattoo from Micah Hutson created at Eletric Age Tattoo Company in Sherman, TX
-# Micah Hutson owns Spirit Tattoo Club Tulsa, OK
-CUDA-powered glitch art generator — turn any image into GPU-created glitch art.
-# CUDA Glitch + Fractal Art
+Tattoo created by **Micah Hutson**  
+Created @ Electric Age Tattoo Company (Sherman, TX)  
+Owner of Spirit Tattoo Club (Tulsa, OK)  
 
-A CUDA-powered art generator.  
-- Mandelbrot/Julia fractals (CPU + GPU accelerated).  
-- Tattoo-inspired color mapping (red/orange spirals, dark edge)
-- Benchmarks: CPU vs GPU runtime.  
-- Extensible: add glitch filters or other math-art generators.  
+## CUDA Glitch + Fractal Art
+A CUDA-powered art generator that explores the intersection of **math, art, and GPU acceleration**.
+Mandelbrot/Julia fractals (CPU + GPU accelerated)  
+Tattoo-inspired color mapping (red/orange spirals, dark edge)  
+Benchmarks: CPU vs GPU runtime  
+Extensible: add glitch filters or other math-art generators  
 
 ## Getting Started
 ### CPU Version
