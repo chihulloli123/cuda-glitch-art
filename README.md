@@ -5,10 +5,10 @@ Owner of Spirit Tattoo Club (Tulsa, OK)
 
 ## CUDA Glitch + Fractal Art
 A CUDA-powered art generator that explores the intersection of **math, art, and GPU acceleration**.
-Mandelbrot/Julia fractals (CPU + GPU accelerated)  
-Tattoo-inspired color mapping (red/orange spirals, dark edge)  
-Benchmarks: CPU vs GPU runtime  
-Extensible: add glitch filters or other math-art generators  
+- Mandelbrot/Julia fractals (CPU + GPU accelerated)  
+- Tattoo-inspired color mapping (red/orange spirals, dark edge)  
+- Benchmarks: CPU vs GPU runtime  
+- Extensible: add glitch filters or other math-art generators  
 
 ## Getting Started
 ### CPU Version
