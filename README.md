@@ -1,6 +1,6 @@
 # cuda-glitch-art
 # tattoo from Micah Hutson created at Eletric Age Tattoo Company in Sherman, TX
-# Spirit Tattoo Club Tulsa, OK
+# Micah Hutson owns Spirit Tattoo Club Tulsa, OK
 CUDA-powered glitch art generator — turn any image into GPU-created glitch art.
 # CUDA Glitch + Fractal Art
 
